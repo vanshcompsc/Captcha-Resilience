@@ -31,10 +31,6 @@ by completing reCAPTCHA audio challenges using speech recognition.
 Challenges are solved by clicking on the extension button at the bottom
 of the reCAPTCHA widget.
 
-> Obviously, this blue part here is the land.
->
-> — <cite>Byron "Buster" Bluth, reading a map</cite>
-
 ## Motivation
 
 reCAPTCHA challenges remain a considerable burden on the web,
