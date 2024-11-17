@@ -3,25 +3,28 @@
 <h1 align="center">Buster: Captcha Solver for Humans</h1>
 
 <p align="center">
-  </br></br>
-  <
-    <picture>
-      <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
-      <img height="58" src="https://i.imgur.com/oGxig2F.png" alt="Chrome Web Store"></picture></a>
-  <
-    <picture>
-      <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
-      <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons"></picture></a>
-  <
-    <picture>
-      <source srcset="https://i.imgur.com/Jog9cQP.png" media="(prefers-color-scheme: dark)">
-      <img height="58" src="https://i.imgur.com/aiprUt8.png" alt="Microsoft Store"></picture></a>
-  <
-    <picture>
-      <source srcset="https://i.imgur.com/ziehy0f.png" media="(prefers-color-scheme: dark)">
-      <img height="58" src="https://i.imgur.com/ytVATu0.png" alt="Opera add-ons"></picture></a>
-      
-  </br></br>
+  <br><br>
+  <picture>
+    <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
+    <img height="58" src="https://i.imgur.com/oGxig2F.png" alt="Chrome Web Store">
+  </picture>
+
+  <picture>
+    <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
+    <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons">
+  </picture>
+
+  <picture>
+    <source srcset="https://i.imgur.com/Jog9cQP.png" media="(prefers-color-scheme: dark)">
+    <img height="58" src="https://i.imgur.com/aiprUt8.png" alt="Microsoft Store">
+  </picture>
+
+  <picture>
+    <source srcset="https://i.imgur.com/ziehy0f.png" media="(prefers-color-scheme: dark)">
+    <img height="58" src="https://i.imgur.com/ytVATu0.png" alt="Opera add-ons">
+  </picture>
+
+  <br><br>
 </p>
 
 
