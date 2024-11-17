@@ -1,63 +1,72 @@
 # Captcha-Resilience
-Evaluating how resistant a CAPTCHA system is against automated attacks or bypass techniques. This involves assessing various methods used to defeat CAPTCHA.
+<p align="center"><img width="128" height="128" src="https://i.imgur.com/uVpmR8l.png"></p>
+<h1 align="center">Buster: Captcha Solver for Humans</h1>
 
-1.  CAPTCHA Types:
-Identify the different types of CAPTCHA commonly used:
-
-Text-based: Users are required to identify and enter text from distorted images.
-Image-based: Users must select certain images (e.g., "select all images with traffic lights").
-Audio-based: Users listen to audio clips and enter the text they hear.
-Interactive: Users perform simple interactions (e.g., sliding a puzzle piece into place).
-
-2.  Test Objectives:
-Assessing how well a CAPTCHA resists automated scripts or bots.
-Identifying vulnerabilities in the CAPTCHA implementation.
-
-3.  Tools Used (Till date):
-OpenCV: A powerful library for computer vision tasks.
-scikit-image: A Python library for image processing and analysis.
-Pytesseract: Extract text from CAPTCHA images.
-Selenium: Automate browser interactions.
-
-
-
-
-Buster: Captcha Solver for Humans
-
+<p align="center">
+  </br></br>
+  <a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl">
+    <picture>
+      <source srcset="https://i.imgur.com/XBIE9pk.png" media="(prefers-color-scheme: dark)">
+      <img height="58" src="https://i.imgur.com/oGxig2F.png" alt="Chrome Web Store"></picture></a>
+  <a href="https://addons.mozilla.org/firefox/addon/buster-captcha-solver/">
+    <picture>
+      <source srcset="https://i.imgur.com/ZluoP7T.png" media="(prefers-color-scheme: dark)">
+      <img height="58" src="https://i.imgur.com/4PobQqE.png" alt="Firefox add-ons"></picture></a>
+  <a href="https://microsoftedge.microsoft.com/addons/detail/buster-captcha-solver-fo/admkpobhocmdideidcndkfaeffadipkc">
+    <picture>
+      <source srcset="https://i.imgur.com/Jog9cQP.png" media="(prefers-color-scheme: dark)">
+      <img height="58" src="https://i.imgur.com/aiprUt8.png" alt="Microsoft Store"></picture></a>
+  <a href="https://addons.opera.com/extensions/details/buster-captcha-solver-for-humans/">
+    <picture>
+      <source srcset="https://i.imgur.com/ziehy0f.png" media="(prefers-color-scheme: dark)">
+      <img height="58" src="https://i.imgur.com/ytVATu0.png" alt="Opera add-ons"></picture></a>
+  </br></br>
+</p>
 
 
- Chrome Web Store  Firefox add-ons  Microsoft Store  Opera add-ons
+## Description
 
+Captcha-Resilience is a browser extension which helps you to solve difficult CAPTCHAs
+by completing reCAPTCHA audio challenges using speech recognition.
+Challenges are solved by clicking on the extension button at the bottom
+of the reCAPTCHA widget.
 
-Supporting the Project
+> Obviously, this blue part here is the land.
+>
+> — <cite>Byron "Buster" Bluth, reading a map</cite>
 
-The continued development of Buster is made possible thanks to the support of awesome backers. If you'd like to join them, please consider contributing with Patreon, PayPal or Bitcoin.
+## Motivation
 
-Description
+reCAPTCHA challenges remain a considerable burden on the web,
+delaying and often blocking our access to services and information
+depending on our physical and cognitive abilities, our social
+and cultural background, and the devices or networks we connect from.
 
-Buster is a browser extension which helps you to solve difficult CAPTCHAs by completing reCAPTCHA audio challenges using speech recognition. Challenges are solved by clicking on the extension button at the bottom of the reCAPTCHA widget.
+The difficulty of CAPTCHA challenges can be so out of balance,
+that sometimes they seem friendlier to bots than they are to humans.
 
-Obviously, this blue part here is the land.
+The goal of this project is to improve our user experience on the web,
+by giving us easy access to solutions utilized by automated systems.
 
-— Byron "Buster" Bluth, reading a map
-Motivation
+## Client App
 
-reCAPTCHA challenges remain a considerable burden on the web, delaying and often blocking our access to services and information depending on our physical and cognitive abilities, our social and cultural background, and the devices or networks we connect from.
+The client app enables you to simulate user interactions and improves
+the success rate of the extension. Follow the instructions
+from the extension's options to download and install the client app
+on Windows, Linux and macOS, or get the app
+from [this](https://github.com/dessant/buster-client#readme) repository.
 
-The difficulty of CAPTCHA challenges can be so out of balance, that sometimes they seem friendlier to bots than they are to humans.
+## Screenshots
 
-The goal of this project is to improve our user experience on the web, by giving us easy access to solutions utilized by automated systems.
+<p>
+  <img width="380" src="https://i.imgur.com/hTqeN4z.png">
+  <img width="380" src="https://i.imgur.com/o0qqDd5.png">
+</p>
 
-Client App
+## License
 
-The client app enables you to simulate user interactions and improves the success rate of the extension. Follow the instructions from the extension's options to download and install the client app on Windows, Linux and macOS, or get the app from this repository.
+Copyright (c) 2018-2024 Vanshdeep Singh
 
-Screenshots
+This software is released under the terms of the GNU General Public License v3.0.
+See the [LICENSE](LICENSE) file for further information.
 
-  
-
-License
-
-Copyright (c) 2018-2024 Armin Sebastian
-
-This software is released under the terms of the GNU General Public License v3.0. See the LICENSE file for further information.
