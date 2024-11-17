@@ -48,13 +48,6 @@ that sometimes they seem friendlier to bots than they are to humans.
 The goal of this project is to improve our user experience on the web,
 by giving us easy access to solutions utilized by automated systems.
 
-## Client App
-
-The client app enables you to simulate user interactions and improves
-the success rate of the extension. Follow the instructions
-from the extension's options to download and install the client app
-on Windows, Linux and macOS, or get the app
-from [this](https://github.com/dessant/buster-client#readme) repository.
 
 ## Screenshots
 
